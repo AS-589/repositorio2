@@ -1,3 +1,3 @@
-# repositorio2
-segundo repositorio
+# repositorio
+segundo repositorio prework
 hemos creado un segundo reporitorio
